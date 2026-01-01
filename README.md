@@ -415,9 +415,9 @@ Las contribuciones son bienvenidas. Por favor:
 ## 📞 Contacto
 
 Para consultas sobre el proyecto o colaboraciones:
-- 📧 Email: [tu-email@ejemplo.com]
-- 💼 LinkedIn: [Tu perfil LinkedIn]
-- 🐙 GitHub: [Tu usuario GitHub]
+- 📧 Email: divorcedlance@gmail.com
+- 💼 LinkedIn: [Jose Luis Vergara Pachas](https://www.linkedin.com/in/jose-luis-vergara-pachas-194914259)
+- 🐙 GitHub: [DivorcedLance](https://github.com/DivorcedLance)
 
 ---
 
